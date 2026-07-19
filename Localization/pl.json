@@ -1,0 +1,46 @@
+{
+  "ui.active_effect": "Aktywny",
+  "ui.no_effect": "Brak",
+  "ui.no_effect_desc": "Brak efektu.",
+  "ui.next_in": "Następny za",
+  "ui.deaths_header": "Zgony:",
+
+  "effect.deaf_player.name": "HALO?! KTO MÓWI?",
+  "effect.deaf_player.description": "Jesteś głuchy. ({0} sekund)",
+
+  "effect.disabled_map.name": "Problemy techniczne",
+  "effect.disabled_map.description": "Mapa nieaktywna. ({0} sekund)",
+
+  "effect.drunk.name": "Ostatni Kielon",
+  "effect.drunk.description": "Przestań tyle chlać! ({0} sekund)",
+
+  "effect.fast_enemies.name": "Szybsi wrogowie",
+  "effect.fast_enemies.description": "Szybsi wrogowie. ({0} sekund)",
+
+  "effect.fast_motion.name": "Syndrom niespokojnych stóp",
+  "effect.fast_motion.description": "Nie ma hamulca, jest tylko gaz. ({0} sekund)",
+
+  "effect.flickering_flashlight.name": "Spięcie",
+  "effect.flickering_flashlight.description": "Latarka miga losowo. ({0} sekund)",
+
+  "effect.grant_wings.name": "Dieta balonikowa",
+  "effect.grant_wings.description": "Zero grawitacji. ({0} sekund)",
+
+  "effect.no_sprint.name": "W szkole się nie biega",
+  "effect.no_sprint.description": "Nie możesz sprintować. ({0} sekund)",
+
+  "effect.no_strength.name": "Ciężkie czasy dla chudzielca",
+  "effect.no_strength.description": "Brak siły. ({0} sekund)",
+
+  "effect.no_ui.name": "HUD poszedł po mleko",
+  "effect.no_ui.description": "UI ukryte. ({0} sekund)",
+
+  "effect.slow_motion.name": "Matrix w wersji budżetowej",
+  "effect.slow_motion.description": "Poruszasz się w zwolnionym tempie. ({0} sekund)",
+
+  "effect.stuck_grabber.name": "Lepkie ręce",
+  "effect.stuck_grabber.description": "Nie możesz puścić trzymanego przedmiotu. ({0} sekund)",
+
+  "effect.swapped_controls.name": "Kompas Się Zepsuł",
+  "effect.swapped_controls.description": "Odwrócone sterowanie. ({0} sekund)"
+}

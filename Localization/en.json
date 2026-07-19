@@ -1,0 +1,46 @@
+{
+  "ui.active_effect": "Active",
+  "ui.no_effect": "None",
+  "ui.no_effect_desc": "No effect currently.",
+  "ui.next_in": "Next in",
+  "ui.deaths_header": "Deaths: ",
+
+  "effect.deaf_player.name": "HELLO?! CAN YA HEAR ME?",
+  "effect.deaf_player.description": "You're deaf. ({0} seconds)",
+
+  "effect.disabled_map.name": "Technical Difficulties",
+  "effect.disabled_map.description": "Map inactive. ({0} seconds)",
+
+  "effect.drunk.name": "One Too Many",
+  "effect.drunk.description": "Stop drinking so much! ({0} seconds)",
+
+  "effect.fast_enemies.name": "Faster Enemies",
+  "effect.fast_enemies.description": "Faster enemies. ({0} seconds)",
+
+  "effect.fast_motion.name": "Restless Legs Syndrome",
+  "effect.fast_motion.description": "Can't stop, won't stop zooming. ({0} seconds)",
+
+  "effect.flickering_flashlight.name": "Short Circuit",
+  "effect.flickering_flashlight.description": "Flashlight flickers randomly. ({0} seconds)",
+
+  "effect.grant_wings.name": "Helium Diet",
+  "effect.grant_wings.description": "Zero gravity. ({0} seconds)",
+
+  "effect.no_sprint.name": "No Running in the Halls",
+  "effect.no_sprint.description": "You can't sprint. ({0} seconds)",
+
+  "effect.no_strength.name": "Hard Times for a Weakling",
+  "effect.no_strength.description": "No strength. ({0} seconds)",
+
+  "effect.no_ui.name": "HUD Went Out for Milk",
+  "effect.no_ui.description": "UI hidden. ({0} seconds)",
+
+  "effect.slow_motion.name": "Budget Matrix",
+  "effect.slow_motion.description": "You are moving in slow motion. ({0} seconds)",
+
+  "effect.stuck_grabber.name": "Sticky Hands",
+  "effect.stuck_grabber.description": "You can't release the held item. ({0} seconds)",
+
+  "effect.swapped_controls.name": "Broken Compass",
+  "effect.swapped_controls.description": "Reversed controls. ({0} seconds)"
+}

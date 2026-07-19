@@ -1,0 +1,9 @@
+{
+    "name": "REPORandomizer",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Random effects that trigger in levels.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}
